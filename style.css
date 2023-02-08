@@ -63,3 +63,14 @@ body h2 {
     flex-direction: column;
     transform: rotateY(180deg);
 }
+
+.back-face h2 {
+    font-size: 50px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.back-face p {
+    font-size: 26px;
+    font-weight: 300;
+}
